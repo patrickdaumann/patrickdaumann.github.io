@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on blog.daumann.me</title>
+    <link>https://blog.daumann.me/tags/</link>
+    <description>Recent content in Tags on blog.daumann.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 22 Oct 2021 00:22:00 +0200</lastBuildDate>
+    <atom:link href="https://blog.daumann.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whoami</title>
+      <link>https://blog.daumann.me/tags/whoami/</link>
+      <pubDate>Fri, 22 Oct 2021 00:22:00 +0200</pubDate>
+      <guid>https://blog.daumann.me/tags/whoami/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

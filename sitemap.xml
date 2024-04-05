@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.daumann.me/</loc>
+    <lastmod>2021-11-22T00:26:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.daumann.me/posts/</loc>
+    <lastmod>2021-11-22T00:26:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.daumann.me/tags/</loc>
+    <lastmod>2021-10-22T00:22:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.daumann.me/whoami/</loc>
+    <lastmod>2021-10-22T00:22:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.daumann.me/tags/whoami/</loc>
+    <lastmod>2021-10-22T00:22:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.daumann.me/archives/</loc>
+  </url><url>
+    <loc>https://blog.daumann.me/categories/</loc>
+  </url>
+</urlset>
