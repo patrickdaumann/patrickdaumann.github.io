@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2024 22:10:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 22:39:22 +0200</lastBuildDate>
     <atom:link href="https://daumann.me/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post4</title>
+      <link>https://daumann.me/posts/post4/</link>
+      <pubDate>Thu, 11 Apr 2024 22:39:22 +0200</pubDate>
+      <guid>https://daumann.me/posts/post4/</guid>
+      <description>Letzter Test versprochen</description>
+    </item>
     <item>
       <title>Post3</title>
       <link>https://daumann.me/posts/post3/</link>
