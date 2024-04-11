@@ -2,21 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://daumann.me/tags/about/</loc>
+    <lastmod>2024-04-11T23:03:04+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/about/</loc>
+    <lastmod>2024-04-11T23:03:04+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/</loc>
+    <lastmod>2024-04-11T23:03:04+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/tags/</loc>
+    <lastmod>2024-04-11T23:03:04+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/categories/blogpost/</loc>
+    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/categories/</loc>
+    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
+  </url><url>
     <loc>https://daumann.me/tags/comingsoon/</loc>
     <lastmod>2024-04-11T22:45:08+02:00</lastmod>
   </url><url>
     <loc>https://daumann.me/posts/commingsoon/</loc>
     <lastmod>2024-04-11T22:45:08+02:00</lastmod>
   </url><url>
-    <loc>https://daumann.me/</loc>
-    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
-  </url><url>
     <loc>https://daumann.me/posts/</loc>
     <lastmod>2024-04-11T22:45:08+02:00</lastmod>
   </url><url>
-    <loc>https://daumann.me/tags/</loc>
-    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/categories/</loc>
+    <loc>https://daumann.me/archives/</loc>
   </url>
 </urlset>

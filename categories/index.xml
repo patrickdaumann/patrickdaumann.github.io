@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 11 Apr 2024 22:45:08 +0200</lastBuildDate>
     <atom:link href="https://daumann.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogpost</title>
+      <link>https://daumann.me/categories/blogpost/</link>
+      <pubDate>Thu, 11 Apr 2024 22:45:08 +0200</pubDate>
+      <guid>https://daumann.me/categories/blogpost/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

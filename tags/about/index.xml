@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on daumann.me</title>
-    <link>https://daumann.me/tags/</link>
-    <description>Recent content in Tags on daumann.me</description>
+    <title>About on daumann.me</title>
+    <link>https://daumann.me/tags/about/</link>
+    <description>Recent content in About on daumann.me</description>
     <image>
       <title>daumann.me</title>
       <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 23:03:04 +0200</lastBuildDate>
-    <atom:link href="https://daumann.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daumann.me/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://daumann.me/tags/about/</link>
+      <link>https://daumann.me/about/</link>
       <pubDate>Thu, 11 Apr 2024 23:03:04 +0200</pubDate>
-      <guid>https://daumann.me/tags/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Comingsoon</title>
-      <link>https://daumann.me/tags/comingsoon/</link>
-      <pubDate>Thu, 11 Apr 2024 22:45:08 +0200</pubDate>
-      <guid>https://daumann.me/tags/comingsoon/</guid>
-      <description></description>
+      <guid>https://daumann.me/about/</guid>
+      <description>Hallo, ich bin Patrick. Hier erfährst du ein wenig über mich und meine Interessen.
+Interessen IT Fotografie Gitarre Über die Website Dies ist mein persönlicher Blog, auf dem ich meine Gedanken und Erfahrungen teile. Ich freue mich über deinen Besuch!</description>
     </item>
   </channel>
 </rss>
