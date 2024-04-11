@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2024 23:03:04 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 23:26:56 +0200</lastBuildDate>
     <atom:link href="https://daumann.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PragBnW</title>
+      <link>https://daumann.me/photography/pragbnw/</link>
+      <pubDate>Thu, 11 Apr 2024 23:26:56 +0200</pubDate>
+      <guid>https://daumann.me/photography/pragbnw/</guid>
+      <description>Prag in Schwarz &amp;amp; Weiß </description>
+    </item>
     <item>
       <title>About</title>
       <link>https://daumann.me/about/</link>
