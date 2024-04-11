@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://daumann.me/</loc>
+    <lastmod>2024-04-11T21:58:46+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/posts/post2/</loc>
+    <lastmod>2024-04-11T21:58:46+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/posts/</loc>
+    <lastmod>2024-04-11T21:58:46+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/tags/</loc>
+    <lastmod>2024-04-11T21:58:46+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/tags/test/</loc>
+    <lastmod>2024-04-11T21:58:46+02:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/posts/helloworld/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daumann.me/categories/</loc>
+  </url>
+</urlset>
