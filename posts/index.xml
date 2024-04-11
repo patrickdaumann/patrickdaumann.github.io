@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on daumann.me</title>
-    <link>https://daumann.me/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on daumann.me</description>
     <image>
       <title>daumann.me</title>
-      <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2024 21:58:46 +0200</lastBuildDate>
-    <atom:link href="https://daumann.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Apr 2024 22:10:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post3</title>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Thu, 11 Apr 2024 22:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/post3/</guid>
+      <description>Letzter Test Github Pages&amp;hellip;</description>
+    </item>
     <item>
       <title>Post2</title>
-      <link>https://daumann.me/posts/post2/</link>
+      <link>http://localhost:1313/posts/post2/</link>
       <pubDate>Thu, 11 Apr 2024 21:58:46 +0200</pubDate>
-      <guid>https://daumann.me/posts/post2/</guid>
+      <guid>http://localhost:1313/posts/post2/</guid>
       <description>Das ist noch ein Testpost! faskdjhfsaklj dsfhksakfj sadfasjkfhkjsahfkjashf
 eins zwei drei print(&amp;#39;Hallo Welt!&amp;#39;) </description>
     </item>
     <item>
       <title>My 1st post</title>
-      <link>https://daumann.me/posts/helloworld/</link>
+      <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://daumann.me/posts/helloworld/</guid>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
       <description>Hello World! Das ist ein test123
 Noch ein test blabla</description>
     </item>
