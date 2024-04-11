@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on daumann.me</title>
-    <link>https://daumann.me/posts/</link>
-    <description>Recent content in Posts on daumann.me</description>
+    <title>Comingsoon on daumann.me</title>
+    <link>https://daumann.me/tags/comingsoon/</link>
+    <description>Recent content in Comingsoon on daumann.me</description>
     <image>
       <title>daumann.me</title>
       <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 22:45:08 +0200</lastBuildDate>
-    <atom:link href="https://daumann.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daumann.me/tags/comingsoon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CommingSoon</title>
       <link>https://daumann.me/posts/commingsoon/</link>

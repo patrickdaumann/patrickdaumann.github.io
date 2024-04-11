@@ -11,37 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2024 22:39:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 22:45:08 +0200</lastBuildDate>
     <atom:link href="https://daumann.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post4</title>
-      <link>https://daumann.me/posts/post4/</link>
-      <pubDate>Thu, 11 Apr 2024 22:39:22 +0200</pubDate>
-      <guid>https://daumann.me/posts/post4/</guid>
-      <description>Letzter Test versprochen</description>
-    </item>
-    <item>
-      <title>Post3</title>
-      <link>https://daumann.me/posts/post3/</link>
-      <pubDate>Thu, 11 Apr 2024 22:10:50 +0200</pubDate>
-      <guid>https://daumann.me/posts/post3/</guid>
-      <description>Letzter Test Github Pages&amp;hellip;</description>
-    </item>
-    <item>
-      <title>Post2</title>
-      <link>https://daumann.me/posts/post2/</link>
-      <pubDate>Thu, 11 Apr 2024 21:58:46 +0200</pubDate>
-      <guid>https://daumann.me/posts/post2/</guid>
-      <description>Das ist noch ein Testpost! faskdjhfsaklj dsfhksakfj sadfasjkfhkjsahfkjashf
-eins zwei drei print(&amp;#39;Hallo Welt!&amp;#39;) </description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>https://daumann.me/posts/helloworld/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://daumann.me/posts/helloworld/</guid>
-      <description>Hello World! Das ist ein test123
-Noch ein test blabla</description>
+      <title>CommingSoon</title>
+      <link>https://daumann.me/posts/commingsoon/</link>
+      <pubDate>Thu, 11 Apr 2024 22:45:08 +0200</pubDate>
+      <guid>https://daumann.me/posts/commingsoon/</guid>
+      <description>Coming Soon: Neuer Inhalt auf meinem Blog Liebe Leser,
+Hier entsteht in der Zukunft mein persönlicher Blog. Ich werde zu folgenden Themen Einträäge veröffentlichen.
+Produktivität Studium Fotografie (Portfolioposts) Programmierung und sonstige IT-Themen Bis bald!
+Viele Grüße, Patrick</description>
     </item>
   </channel>
 </rss>
