@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on daumann.me</title>
-    <link>https://daumann.me/posts/</link>
-    <description>Recent content in Posts on daumann.me</description>
+    <title>Portfolio on daumann.me</title>
+    <link>https://daumann.me/categories/portfolio/</link>
+    <description>Recent content in Portfolio on daumann.me</description>
     <image>
       <title>daumann.me</title>
       <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,23 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 23:26:56 +0200</lastBuildDate>
-    <atom:link href="https://daumann.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daumann.me/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio - PragBnW</title>
       <link>https://daumann.me/posts/photography_pragbnw/</link>
       <pubDate>Thu, 11 Apr 2024 23:26:56 +0200</pubDate>
       <guid>https://daumann.me/posts/photography_pragbnw/</guid>
       <description>Prag BnW </description>
-    </item>
-    <item>
-      <title>CommingSoon</title>
-      <link>https://daumann.me/posts/commingsoon/</link>
-      <pubDate>Thu, 11 Apr 2024 22:45:08 +0200</pubDate>
-      <guid>https://daumann.me/posts/commingsoon/</guid>
-      <description>Coming Soon: Neuer Inhalt auf meinem Blog Liebe Leser,
-Hier entsteht in der Zukunft mein persönlicher Blog. Ich werde zu folgenden Themen Einträäge veröffentlichen.
-Produktivität Studium Fotografie (Portfolioposts) Programmierung und sonstige IT-Themen Bis bald!
-Viele Grüße, Patrick</description>
     </item>
   </channel>
 </rss>
