@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/analog/</loc>
+    <loc>https://daumann.me/tags/analog/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://daumann.me/categories/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://daumann.me/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/orchids-on-apx100/</loc>
+    <loc>https://daumann.me/posts/orchids-on-apx100/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/photography/</loc>
+    <loc>https://daumann.me/tags/photography/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/photography/</loc>
+    <loc>https://daumann.me/categories/photography/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/portfolio/</loc>
+    <loc>https://daumann.me/categories/portfolio/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://daumann.me/posts/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://daumann.me/tags/</loc>
     <lastmod>2024-05-16T23:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/photography_colognebnw/</loc>
+    <loc>https://daumann.me/posts/photography_colognebnw/</loc>
     <lastmod>2024-04-13T00:43:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/photography_pragbnw/</loc>
+    <loc>https://daumann.me/posts/photography_pragbnw/</loc>
     <lastmod>2024-04-11T23:26:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://daumann.me/tags/about/</loc>
     <lastmod>2024-04-11T23:03:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://daumann.me/about/</loc>
     <lastmod>2024-04-11T23:03:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://daumann.me/archives/</loc>
   </url>
 </urlset>

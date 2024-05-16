@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About on daumann.me</title>
-    <link>http://localhost:1313/tags/about/</link>
+    <link>https://daumann.me/tags/about/</link>
     <description>Recent content in About on daumann.me</description>
     <image>
       <title>daumann.me</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 23:03:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daumann.me/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://daumann.me/about/</link>
       <pubDate>Thu, 11 Apr 2024 23:03:04 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://daumann.me/about/</guid>
       <description>Hallo, ich bin Patrick. Hier erfährst du ein wenig über mich und meine Interessen. Ich bin 27 und arbeite als System-Engineer in einem deutschen Systemhaus. Neben dem Beruf studiere ich an der Abendschule Wirtschaftsinformatik. Mein größtes Hobby ist seit ca 10 Jahren die Fotografie. Ich möchte immer neue Dinge in diesem bereich ausprobieren und nun habe ich mir vorgenommen meine Fotos und auch einige Artikel zu diesem Thema in diesem Blog zu veröffentlichen.</description>
     </item>
   </channel>
