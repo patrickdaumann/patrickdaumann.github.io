@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogpost on daumann.me</title>
-    <link>https://daumann.me/categories/blogpost/</link>
+    <link>http://localhost:1313/categories/blogpost/</link>
     <description>Recent content in Blogpost on daumann.me</description>
     <image>
       <title>daumann.me</title>
-      <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 22:45:08 +0200</lastBuildDate>
-    <atom:link href="https://daumann.me/categories/blogpost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/blogpost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CommingSoon</title>
-      <link>https://daumann.me/posts/commingsoon/</link>
+      <link>http://localhost:1313/posts/commingsoon/</link>
       <pubDate>Thu, 11 Apr 2024 22:45:08 +0200</pubDate>
-      <guid>https://daumann.me/posts/commingsoon/</guid>
+      <guid>http://localhost:1313/posts/commingsoon/</guid>
       <description>Coming Soon: Neuer Inhalt auf meinem Blog Liebe Leser,
 Hier entsteht in der Zukunft mein persönlicher Blog. Ich werde zu folgenden Themen Einträäge veröffentlichen.
 Produktivität Studium Fotografie (Portfolioposts) Programmierung und sonstige IT-Themen Bis bald!

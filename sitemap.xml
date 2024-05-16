@@ -2,48 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daumann.me/categories/</loc>
+    <loc>http://localhost:1313/tags/analog/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/orchids-on-apx100/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/photography/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/photography/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/portfolio/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-16T23:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/photography_colognebnw/</loc>
     <lastmod>2024-04-13T00:43:35+02:00</lastmod>
   </url><url>
-    <loc>https://daumann.me/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/tags/photography/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/categories/photography/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/posts/photography_colognebnw/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/categories/portfolio/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/posts/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/tags/</loc>
-    <lastmod>2024-04-13T00:43:35+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/posts/photography_pragbnw/</loc>
+    <loc>http://localhost:1313/posts/photography_pragbnw/</loc>
     <lastmod>2024-04-11T23:26:56+02:00</lastmod>
   </url><url>
-    <loc>https://daumann.me/tags/about/</loc>
+    <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2024-04-11T23:03:04+02:00</lastmod>
   </url><url>
-    <loc>https://daumann.me/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-04-11T23:03:04+02:00</lastmod>
   </url><url>
-    <loc>https://daumann.me/categories/blogpost/</loc>
-    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/tags/comingsoon/</loc>
-    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/posts/commingsoon/</loc>
-    <lastmod>2024-04-11T22:45:08+02:00</lastmod>
-  </url><url>
-    <loc>https://daumann.me/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>

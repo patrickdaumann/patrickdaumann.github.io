@@ -2,48 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>daumann.me</title>
-    <link>https://daumann.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on daumann.me</description>
     <image>
       <title>daumann.me</title>
-      <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Apr 2024 00:43:35 +0200</lastBuildDate>
-    <atom:link href="https://daumann.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 May 2024 23:15:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orchids on APX100</title>
+      <link>http://localhost:1313/posts/orchids-on-apx100/</link>
+      <pubDate>Thu, 16 May 2024 23:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/orchids-on-apx100/</guid>
+      <description>Collection of Scanned Photos of orchids. Shot on APX100</description>
+    </item>
     <item>
       <title>Photography - CologneBNW</title>
-      <link>https://daumann.me/posts/photography_colognebnw/</link>
+      <link>http://localhost:1313/posts/photography_colognebnw/</link>
       <pubDate>Sat, 13 Apr 2024 00:43:35 +0200</pubDate>
-      <guid>https://daumann.me/posts/photography_colognebnw/</guid>
+      <guid>http://localhost:1313/posts/photography_colognebnw/</guid>
       <description>Cologne BNW </description>
     </item>
     <item>
       <title>Portfolio - PragBnW</title>
-      <link>https://daumann.me/posts/photography_pragbnw/</link>
+      <link>http://localhost:1313/posts/photography_pragbnw/</link>
       <pubDate>Thu, 11 Apr 2024 23:26:56 +0200</pubDate>
-      <guid>https://daumann.me/posts/photography_pragbnw/</guid>
+      <guid>http://localhost:1313/posts/photography_pragbnw/</guid>
       <description>Prag BnW </description>
     </item>
     <item>
       <title>About</title>
-      <link>https://daumann.me/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 11 Apr 2024 23:03:04 +0200</pubDate>
-      <guid>https://daumann.me/about/</guid>
-      <description>Hallo, ich bin Patrick. Hier erfährst du ein wenig über mich und meine Interessen.
-Interessen IT Fotografie Gitarre Über die Website Dies ist mein persönlicher Blog, auf dem ich meine Gedanken und Erfahrungen teile. Ich freue mich über deinen Besuch!</description>
-    </item>
-    <item>
-      <title>CommingSoon</title>
-      <link>https://daumann.me/posts/commingsoon/</link>
-      <pubDate>Thu, 11 Apr 2024 22:45:08 +0200</pubDate>
-      <guid>https://daumann.me/posts/commingsoon/</guid>
-      <description>Coming Soon: Neuer Inhalt auf meinem Blog Liebe Leser,
-Hier entsteht in der Zukunft mein persönlicher Blog. Ich werde zu folgenden Themen Einträäge veröffentlichen.
-Produktivität Studium Fotografie (Portfolioposts) Programmierung und sonstige IT-Themen Bis bald!
-Viele Grüße, Patrick</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hallo, ich bin Patrick. Hier erfährst du ein wenig über mich und meine Interessen. Ich bin 27 und arbeite als System-Engineer in einem deutschen Systemhaus. Neben dem Beruf studiere ich an der Abendschule Wirtschaftsinformatik. Mein größtes Hobby ist seit ca 10 Jahren die Fotografie. Ich möchte immer neue Dinge in diesem bereich ausprobieren und nun habe ich mir vorgenommen meine Fotos und auch einige Artikel zu diesem Thema in diesem Blog zu veröffentlichen.</description>
     </item>
   </channel>
 </rss>

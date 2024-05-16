@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Analogfotografie on daumann.me</title>
+    <link>http://localhost:1313/tags/analogfotografie/</link>
+    <description>Recent content in Analogfotografie on daumann.me</description>
+    <image>
+      <title>daumann.me</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2024 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/analogfotografie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CommingSoon</title>
+      <link>http://localhost:1313/posts/analogfotografie-in-2024/</link>
+      <pubDate>Thu, 16 May 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/analogfotografie-in-2024/</guid>
+      <description>Analogfotografie in 2024 Ich habe vor ca. zwei Wochen damit begonnen analog zu fotografieren. Ich bin jetzt seit ca 11 Jahren Hobbyfotograf und habe immer nur digital fotografiert. Ich habe zwar auch in der digitalen Fotografie immer diesen gewissen &amp;ldquo;vintage Style&amp;rdquo; verfolgt, indem ich beispielsweise alte Objektive mit einem Adapter an meiner Sony A7III verwendet habe und in der Raw-Konvertierung dann gezielt diesen Stil verstärkt habe, aber ich habe nie wirklich auf echtem Analogfilm fotografiert.</description>
+    </item>
+  </channel>
+</rss>
