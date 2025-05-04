@@ -9,7 +9,7 @@
       <url>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://daumann.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 23:03:04 +0200</lastBuildDate>
     <atom:link href="https://daumann.me/tags/about/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,9 @@
       <link>https://daumann.me/about/</link>
       <pubDate>Thu, 11 Apr 2024 23:03:04 +0200</pubDate>
       <guid>https://daumann.me/about/</guid>
-      <description>Hallo, ich bin Patrick. Hier erfährst du ein wenig über mich und meine Interessen. Ich bin 27 und arbeite als System-Engineer in einem deutschen Systemhaus. Neben dem Beruf studiere ich an der Abendschule Wirtschaftsinformatik. Mein größtes Hobby ist seit ca 10 Jahren die Fotografie. Ich möchte immer neue Dinge in diesem bereich ausprobieren und nun habe ich mir vorgenommen meine Fotos und auch einige Artikel zu diesem Thema in diesem Blog zu veröffentlichen.</description>
+      <description>&lt;p&gt;Ich fotografiere am liebsten in Schwarzweiß – sowohl digital als auch analog. Dabei interessieren mich klare Kompositionen, Formen und Lichtstimmungen.&lt;/p&gt;
+&lt;p&gt;Meine Motive reichen von Streetfotografie über Architektur bis zu Stillleben. Besonders wichtig ist mir, dass meine Bilder nicht nur festhalten, was zu sehen ist, sondern auch eine Stimmung oder kleine Geschichte transportieren.&lt;/p&gt;
+&lt;p&gt;Ein Teil meiner Fotos entsteht auf Film. Ich entwickle die Negative selbst, weil mich der handwerkliche Prozess und die Kontrolle über das Ergebnis faszinieren.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
